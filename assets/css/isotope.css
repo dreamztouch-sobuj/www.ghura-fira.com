@@ -1,0 +1,49 @@
+
+
+#gallery {
+  border: 1px solid #efefef;
+  padding: 4px 0 0 0;
+  text-align: center;
+}
+
+#gallery img {
+  margin: 1%;
+  width: 17.7%;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+#gallery img:hover {
+  margin: 1%;
+  opacity: .8;
+}
+
+header h1 {
+  font-weight: 700;
+  margin-left: 8px;
+}
+
+#buttons button {
+  border: 1px solid #efefef;
+  margin-right: 8px;
+  border: 0;
+  padding: 12px;
+  border-radius: 3px;
+}
+
+#buttons button.active {
+  background-color: #bbb;
+  color: #111;
+}
+
+#buttons {
+  margin: 8px;
+  padding-bottom: 8px;
+  text-align: center;
+}
+
+button:hover{
+  background-color: #111;
+  color: #fff;
+}
+

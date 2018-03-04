@@ -1,0 +1,1424 @@
+.mt1{margin-top: 10px;}
+.mt2{margin-top: 20px;}
+.mt3{margin-top: 30px;}
+.mt4{margin-top: 40px;}
+.mt5{margin-top: 50px;}
+.mt8{margin-top: 80px;}
+.mt11{margin-top: 110px;}
+
+.mb5{margin-bottom: 50px;}
+
+.no-padding{padding: 0px !important;}	
+
+.all-category h3,
+.bangladesh-in-word h3,
+.our-gallery h3,
+.book-by-category h3,
+.travellers-comments h3,
+.popular-blogs h3,
+.news-and-events h3,
+.subscribe h3,
+.tour-summary h2,
+.sidebar-search-form h2,
+.sidebar-search-form h3,
+.single-tour h2,
+.single-tour .reviews h3{
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 24px;
+    color: #000;
+    text-transform: uppercase;
+    margin: 0px 0px 30px 0px !important;
+    font-weight: bold;
+}
+
+/*=======================================
+==========> Top Header CSS <=============
+========================================*/
+.top-header{
+    padding: 30px 0px;
+}
+
+.social-icon{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.social-icon ul{padding: 0px;}
+.social-icon ul li{
+    list-style: none;
+    width: 28px;
+    height: 28px;
+    border: 1px solid #808080;
+    text-align: center;
+    cursor: pointer;    
+    display: inline-block;
+    margin: 0px 4px;
+    
+    -webkit-transition: background-color 800ms linear, color 800ms linear;
+    -moz-transition: background-color 800ms linear, color 800ms linear;
+    -o-transition: background-color 800ms linear, color 800ms linear;
+    -ms-transition: background-color 800ms linear, color 800ms linear;
+    transition: background-color 800ms linear, color 800ms linear;
+}
+.social-icon ul li:hover{
+    background: #2E8B57;
+}
+.social-icon ul li:hover a{
+    color: #DC143C;
+}
+.social-icon ul li a{
+    font-size: 18px;
+    line-height: 28px;
+    color: #000;
+}
+
+.logo{text-align: center;}
+
+.logo h1{margin: 0px;}
+.logo h1 a, .logo h1 a:hover{
+    text-decoration: none;
+    cursor: pointer;
+    font-family: 'Cookie', cursive;
+    font-size: 36px;
+}
+.logo q{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    color: #2F4F4F;
+}
+
+.tour-booking{text-align: center;}
+
+.booking-now-btn{
+    border-radius: 0px !important;
+    margin-top: 20px;
+    display: inline-block !important;
+    
+    -webkit-transition: background-color 800ms linear, color 800ms linear;
+    -moz-transition: background-color 800ms linear, color 800ms linear;
+    -o-transition: background-color 800ms linear, color 800ms linear;
+    -ms-transition: background-color 800ms linear, color 800ms linear;
+    transition: background-color 800ms linear, color 800ms linear;
+}
+
+button.booking-now-btn:hover{
+    background: #2E8B57;
+}
+
+.tour-booking a,
+.tour-booking a:hover{
+    vertical-align: middle;
+    text-decoration: none;
+    padding: 18px 0px 0px 10px;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block !important;
+}
+
+
+/*=======================================
+============> Menu Bar CSS <=============
+========================================*/
+.menu-bar{
+    background: #000;
+}
+.custom-navbar-default{ 
+    background-color: #000 !important;
+    border-color: #000 !important;
+}
+
+a.navbar-brand{
+    font-family: 'Cookie', cursive;
+    font-size: 36px;
+    color: #B22222 !important;
+}
+.navbar-nav > li > a{
+    font-family: 'PT Sans', sans-serif !important;
+    font-size: 20px !important;
+    color: #FFF !important;
+}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    background-color: #008080 !important;
+    
+    -webkit-transition: background-color 600ms linear;
+    -moz-transition: background-color 600ms linear;
+    -o-transition: background-color 600ms linear;
+    -ms-transition: background-color 600ms linear;
+    transition: background-color 600ms linear;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+    background-color: #2e8b57 !important;
+    color: #FFF !important;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover {
+    background-color: #2e8b57 !important;
+    color: #FFF !important;
+}
+.dropdown-menu{background: #000 !important;}
+
+.dropdown-menu > li > a{
+    font-family: 'PT Sans', sans-serif !important;
+    font-size: 16px !important;
+    color: #FFF !important;
+}
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
+    color: #FFF !important;
+    text-decoration: none;
+    background-color: #008080 !important;
+    
+    -webkit-transition: background-color 600ms linear;
+    -moz-transition: background-color 600ms linear;
+    -o-transition: background-color 600ms linear;
+    -ms-transition: background-color 600ms linear;
+    transition: background-color 600ms linear;
+}
+
+
+/*=======================================
+============> Top Video CSS <============
+========================================*/
+#video-bg {
+  position: relative;
+  width: auto;
+  min-width: 100%;
+  height: auto;
+  background: transparent url(video-bg.jpg) no-repeat;
+  background-size: cover;
+  opacity: 0.8;
+}
+video {
+  display: block;
+}
+.video-container {
+  width: 100%;
+  max-height: 600px;
+  overflow: hidden;
+  position: relative;
+  right: 0;
+  /*z-index: -100;*/
+}
+
+#search-form{
+    position: absolute;
+    bottom: 25px;
+}
+.search-form{
+    background: rgba(255,255,255,0.8);
+    box-sizing: border-box;
+    padding: 15px 10px;
+}
+
+.search-form h4{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: #000;
+    padding: 0px;
+    margin: 0px 0px 20px 0px;
+}
+.search-form label{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 12px;
+    color: #3c3c3c;
+    text-transform: uppercase;
+    margin: 0px 0px 10px 0px;
+}
+
+.custom-calendar-position{
+    top: 40px !important;
+    right: 10px !important;
+    cursor: text;
+}
+
+button.form-control.search-tour{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 6px 5px !important;
+    -webkit-transition: background-color 800ms linear, color 800ms linear;
+    -moz-transition: background-color 800ms linear, color 800ms linear;
+    -o-transition: background-color 800ms linear, color 800ms linear;
+    -ms-transition: background-color 800ms linear, color 800ms linear;
+    transition: background-color 800ms linear, color 800ms linear;
+}
+button.form-control.search-tour:hover{background: #2E8B57;}
+
+
+/*=======================================
+==========> Find Category CSS <==========
+========================================*/
+.all-category{
+    padding: 30px 0px;
+}
+
+.single-category{
+    border: 1px solid #000;
+    position: relative;
+    width: 100%;
+}
+.single-category img{
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    -webkit-transition: all 1s ease;
+}
+.single-category img:hover{
+filter: grayscale(0%);
+filter: gray;
+-webkit-filter: grayscale(0%);
+filter: none;
+transition: 1s ease;
+}
+.single-category .view-more,
+.custom-tab-content .single-category .summary-info{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.single-category .view-more ul{
+    padding: 0px !important;
+    border-top: 1px solid #FFF;
+    margin: 0px;
+    background: #034a20;
+    overflow: hidden;
+    z-index: 1;
+}
+.single-category .view-more ul li{
+    color: #FFF;
+    display: inline-block;
+    width: 49%;
+    line-height: 40px;
+    float: right;
+    text-align: right;
+    padding: 0px 12px 0px 0px;
+}
+.single-category .view-more ul li:first-child,
+.custom-tab-content .single-category .summary-info ul li:first-child,
+.popular-blogs .single-category .summary-info ul li:first-child{
+    border-right: 1px solid #FFF;
+    float: left;
+    text-align: left;
+    padding: 0px 0px 0px 12px;
+}
+.single-category .view-more ul li a,
+.single-category .view-more ul li a:hover{
+    text-decoration: none;
+    color: #FFF;
+    cursor: pointer;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.custom-col-12:nth-child(5n),
+.custom-col-12:nth-child(6n),
+.custom-col-12:nth-child(7n)
+{
+    margin-top: 40px;
+}
+
+@media (max-width: 991px){
+    .custom-col-12:nth-child(4n){margin-top: 40px;}    
+}
+
+@media (max-width: 480px){
+    .custom-col-12{width: 100% !important;}
+    .custom-col-12:nth-child(3n){margin-top: 40px;}
+    .single-category{
+        max-width: 370px;
+        width: 100%;
+        margin: auto;
+    }
+}
+
+
+/*=======================================
+==========> Bangladesh In a word CSS <==========
+========================================*/
+.bangladesh-in-word,
+.book-by-category,
+.popular-blogs{
+    padding: 30px 0px;
+    background: #F7F8FA;
+}
+
+.bangladesh-in-word{
+	background: url(http://localhost/www.ghura-fira.com/assets/images/home-banner/bangladesh.jpg);
+	height: 273px;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bangladesh-in-word h3{color: #FFF;}
+
+ul.bxslider li{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 500;
+    padding: 20px 10px;
+}
+
+ul.bxslider li p.author{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 300;
+    margin: 0px;
+}
+
+.bx-wrapper{margin-bottom: 25px !important;}
+
+.bx-wrapper .bx-pager.bx-default-pager a{
+    background: #FFF !important;
+    border: 4px solid #0f8411;
+    height: 15px !important;
+    width: 15px !important;
+    border-radius: 10px !important;
+}
+
+.bx-wrapper .bx-pager.bx-default-pager a:focus,
+.bx-wrapper .bx-pager.bx-default-pager a:hover,
+.bx-pager.bx-default-pager a.active{
+    background: #808080 !important;
+}
+
+
+/*=======================================
+==========> Our Gallery CSS <==========
+========================================*/
+.our-gallery,
+.travellers-comments,
+.news-and-events{padding: 30px 0px;}
+
+.our-gallery p.subtitle,
+.book-by-category p.subtitle,
+.travellers-comments p.subtitle,
+.popular-blogs p.subtitle{
+    font-family: "PT Sans",sans-serif;
+    font-size: 18px;
+    color: #000000;
+    text-align: center;
+    margin: 0px 0px 15px 0px;
+}
+
+
+/*=======================================
+==========> Book by category CSS <==========
+========================================*/
+.book-by-category-tabs .nav-tabs{
+    border: none !important; 
+    display: inline-block !important;
+    margin: 20px 0px 0px 0px;
+}
+
+.custom-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover{
+    border-bottom-color: #ddd !important;
+    box-sizing: border-box;
+    
+    -webkit-box-shadow:inset 0px 0px 8px 10px #FCB714;
+    -moz-box-shadow:inset 0px 0px 8px 10px #FCB714;
+    box-shadow:inset 0px 0px 8px 0px #FCB714;
+}
+.custom-tabs > li{margin: 0px 3px !important;}
+.custom-tabs > li > a{
+    border: 1px solid #ddd !important;
+    padding: 10px 30px !important;
+    color: #000;
+    font-size: 14px !important;
+    font-family: "PT Sans", sans-serif;
+    text-transform: uppercase;
+    border-radius: 0px !important;
+}
+
+.custom-tab-content .single-category,
+.popular-blogs .single-category{border: none !important;}
+
+.custom-tab-content .single-category .summary-info ul,
+.popular-blogs .single-category .summary-info ul{
+    background: #FCB714;
+    padding: 0px !important;
+    border-top: 1px solid #FFF;
+    margin: 0px;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.custom-tab-content .single-category .summary-info ul li,
+.popular-blogs .single-category .summary-info ul li{
+    color: #FFF;
+    display: inline-block;
+    width: 49%;
+    line-height: 40px;
+    float: right;
+    text-align: right;
+    padding: 0px 12px 0px 0px;
+    font-family: "PT Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 900;
+}
+
+.custom-tab-content .information,
+.popular-blogs .information{
+    border: 1px solid #E5E5E5;
+}
+
+.custom-tab-content .information h4,
+.travellers-comments .testimonial .travellers h4,
+.popular-blogs .information h4{
+    font-family: "PT Sans", sans-serif;
+    font-size: 16px;
+    color: #333;
+    font-weight: 700;
+    margin: 20px 0px 10px 0px;
+}
+
+.information p.rating-info,
+.information p.short-info,
+.travellers-comments .testimonial .travellers .travellers-from p,
+.travellers-comments .testimonial .travellers p.short-info,
+.single-tour .comments .comments-date,
+.single-tour .comments .user-comments p{
+    font-family: "PT Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 100;
+    color: #9A9A9A;
+    text-transform: uppercase;
+}
+
+
+.star-ratings-css {
+    unicode-bidi: bidi-override;
+    color: #9A9A9A;
+    font-size: 15px;
+    height: 25px;
+    width: 62px;
+    margin: 0 auto;
+    position: relative;
+    padding: 0;
+    text-shadow: 0px 1px 0 #a2a2a2;
+    float: right;
+}
+.star-ratings-css-top {
+    color: #e7711b;
+    padding: 0;
+    position: absolute;
+    z-index: 1;
+    display: block;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+}
+.star-ratings-css-bottom {
+    padding: 0;
+    display: block;
+    z-index: 0;
+}
+
+.information p.short-info{
+    color: #333 !important;
+    text-transform: none !important;
+    text-align: justify;
+}
+
+.information .more-section{
+    border-top: 1px solid #E5E5E5;
+    text-align: center;
+}
+
+.view-all{margin-top: 60px;}
+
+.view-all .more-section{
+    text-align: center;
+    width: 160px;
+    margin: auto;
+    border: 1px solid #E5E5E5;
+    padding: 12px 0px;
+}
+
+.information .more-section a,
+.view-all .more-section a{
+    font-family: "PT Sans", sans-serif;
+    font-size: 14px;
+    color: #333;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.information .more-section a:hover,
+.view-all .more-section a:hover{
+    text-decoration: none;
+    color: #DC143C !important;
+    
+    -webkit-transition: color 600ms linear;
+    -moz-transition: color 600ms linear;
+    -o-transition: color 600ms linear;
+    -ms-transition: color 600ms linear;
+    transition: color 600ms linear;
+}
+
+.more-section div:first-child{
+    border-right: 1px solid #e5e5e5;
+}
+.more-section div{
+    padding: 15px 0px;
+}
+
+
+/*=======================================
+==========> Travellers Comments CSS <=============
+========================================*/
+.travellers-comments .testimonial{
+    padding: 20px;
+    border: 1px solid #E2E2E4;
+    background: #F7F8FA;
+    box-sizing: border-box;    
+}
+
+
+.travellers-comments .testimonial .travellers-image img{
+    margin: auto;
+}
+
+.travellers-comments .testimonial .travellers h4{
+    text-align: left;
+    margin: 10px 0px;
+    text-transform: capitalize;
+}
+
+.travellers-comments .testimonial .travellers .star-ratings-css{float: left;}
+.travellers-comments .testimonial .travellers .travellers-from p{text-align: right;}
+.travellers-comments .testimonial .travellers p.short-info{text-align: justify;}
+
+
+/*=======================================
+==========> Popular Blogs CSS <=============
+========================================*/
+.popular-blogs .single-category .summary-info ul{
+    background: rgba(66,120,202,0.6) !important;
+}
+.popular-blogs .single-category .summary-info ul li{
+    font-size: 14px !important;
+    text-transform: uppercase !important;
+}
+
+.popular-blogs .single-category .information p.blog-views{
+    font-family: "PT Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 100;
+    color: #9A9A9A;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+.popular-blogs .single-category .more-section{
+    text-align: center;
+}
+
+.popular-blogs p.subtitle{
+    margin: 0px 0px 30px 0px !important;
+}
+
+
+/*=======================================
+==========> News and Events CSS <=============
+========================================*/
+.news-and-events .news,
+.news-and-events .events{
+    border: 1px solid #e5e5e5;
+    padding: 10px;
+    box-sizing: border-box;
+    height: 300px;
+    overflow-y: scroll;
+    overflow-x: auto;
+}
+.news-and-events h4,
+.news-and-events h4 a{
+    font-family: "PT Sans", sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background: #F7F8FA;
+    padding: 10px 15px;
+}
+
+.news-and-events h4 a:hover{
+    text-decoration: none;
+}
+
+.news .each-news p,
+.events .each-event p{
+    font-family: "PT Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+.news .each-news p.read-more a,
+.news .each-news p.read-more a:hover,
+.events .each-event p.read-more a,
+.events .each-event p.read-more a:hover{
+    font-family: "PT Sans", sans-serif;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 100;
+    cursor: pointer;
+        
+}
+
+
+/*=======================================
+==========> Special Offer CSS <=============
+========================================*/
+.special-offer{
+    padding: 30px 0px;
+    background: url('http://localhost/www.ghura-fira.com/assets/images/bg-v1.jpg') repeat;
+}
+
+.special-offer .each-special-offer .off{
+    border-right: 100px solid transparent;
+    border-top: 83px solid #FCB714;
+    opacity: 1;
+    position: absolute;
+    top: 0;
+}
+
+.special-offer .each-special-offer .off span{
+    color: #FFF;
+    font-size: 11px;
+    left: -7px;
+    position: absolute;
+    top: -64px;
+    transform: rotate(-40deg);
+    width: 100px;
+}
+
+.special-offer .each-special-offer img{
+    width: 100%;
+    height: 150px;
+}
+
+.special-offer .each-special-offer .overlay-img{
+    opacity: 1;
+    display:block;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+
+.special-offer .each-special-offer .middle{
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate( -50%, -50%);
+    -ms-transform: translate( -50%, -50%);
+}
+
+.each-special-offer:hover .off {
+  opacity: 1;
+}
+
+.each-special-offer:hover .overlay-img {
+  opacity: 0.3;
+}
+
+.each-special-offer:hover .middle {
+  opacity: 1;
+}
+
+.special-offer .each-special-offer .middle{
+    font-family: "PT Sans",sans-serif;
+    text-align: center;
+}
+
+.special-offer .each-special-offer .middle h4{
+    font-size: 18px;
+    color: #FFF;
+    text-transform: uppercase;
+    margin: 0px 0px 15px 0px;
+}
+
+.special-offer .each-special-offer .middle a.booking-now{
+    background: #FCB714;
+    padding: 5px 20px;
+    font-size: 16px;
+    text-decoration: none;
+    cursor: pointer;
+    color: #FFF;
+}
+
+/*=======================================
+==========> Subscribe CSS <=============
+========================================*/
+.subscribe{
+    padding: 30px 0px;
+    background: #74AFAD;
+}
+
+.subscribe h3{
+    color: #ECECEA;
+}
+
+.subscribe button.subscribe-btn{
+    background: #D9853B;
+    color: #ECECEA;
+    font-family: "PT Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    border: 1px solid #D9853B;
+}
+
+
+/*=======================================
+==========> Footer CSS <=============
+========================================*/
+.footer{
+    padding: 30px 0px;
+    background: #28272F;
+}
+
+.footer .about-us{
+    font-family: "PT Sans", sans-serif;
+}
+
+.footer .about-us h2,
+.footer .about-us h2 a,
+.footer .contact-form h2,
+.footer .contact-form h2 a,
+.footer .sitemap h2{
+    font-family: 'Cookie', cursive;
+    font-size: 36px;
+    color: #B22222 !important; 
+    text-decoration: none;
+    margin: 0px 0px 10px 0px;
+}
+
+.footer .contact-form h2,
+.footer .contact-form h2 a{
+	color: #2a6496 !important;
+}
+
+.footer .sitemap h2{color: #FFF !important;}
+
+.footer .about-us q{
+    font-size: 16px;
+    color: #FFF;
+}
+
+.footer .about-us p{
+	margin-top:10px;
+	font-size: 14px;
+	color: #bdbdbd;
+}
+
+.footer .about-us .contact-info{
+	line-height: 26px;
+}
+
+.footer .contact-form label{
+	color: #A2CBB2;
+	margin-top:10px;
+}
+.footer .contact-form label:first-child{margin-top: 0px;}
+
+.footer .contact-form button.btn-contact-submit{
+	width: 100%;
+	background: rgba(66, 120, 203, 0.6);
+	color: #FFF;
+	text-align: center;
+	margin-top:15px;
+	border: none;
+	padding:5px 0px;
+	
+	-webkit-transition: background-color 800ms linear, color 800ms linear;
+    -moz-transition: background-color 800ms linear, color 800ms linear;
+    -o-transition: background-color 800ms linear, color 800ms linear;
+    -ms-transition: background-color 800ms linear, color 800ms linear;
+    transition: background-color 800ms linear, color 800ms linear;
+}
+
+.footer .contact-form button.btn-contact-submit:hover{background: #7A2DC2;}
+
+.footer .sitemap ul{
+	padding: 0px; 
+	list-style: none;
+}
+
+.footer .sitemap ul li{
+	display: block
+}
+
+.footer .sitemap ul li a{
+	text-decoration: none;
+	font-size:15px;
+	color: #FFF;
+	line-height:25px;
+	
+	-webkit-transition: color 800ms linear, color 800ms linear;
+    -moz-transition: color 800ms linear, color 800ms linear;
+    -o-transition: color 800ms linear, color 800ms linear;
+    -ms-transition: color 800ms linear, color 800ms linear;
+    transition: color 800ms linear, color 800ms linear;
+}
+
+.footer .sitemap ul li a:hover{
+	color: #e48535;;
+}
+
+.footer-copyright{
+	padding:10px 0px;
+	text-align: center;
+	color: #808285;
+	font-size:15px;
+	background: #282828;
+}
+
+
+/*============================
+==> tour
+==============================*/
+
+.tour-header{
+	background: url(http://localhost/www.ghura-fira.com/assets/images/place-banner.jpg);
+	height: 273px;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	position:relative;
+}
+
+.tour-header .overlay{
+	background: rgba(0, 0, 0, 0.6);
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	position: absolute;
+	padding: 0;
+	transition: opacity .5s;
+}
+
+.tour-header h1{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 36px; 
+	color: #FFF;
+	text-align: center;
+	vertical-align: middle;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+.tour-container{
+	margin-top: -88px;
+	font-family: "PT Sans", sans-serif;
+}
+
+.tour-container .filter-btns ul,
+.tour-summary .social-share ul{
+	list-style: none; 
+	padding: 0px; 
+	margin-bottom: 0px;
+}
+.tour-container .filter-btns ul li,
+.tour-summary .social-share ul li{
+	display: inline-block;
+	background: #FFF;
+	vertical-align: middle;
+	padding:24px 30px;
+	text-align:center;
+}
+
+.tour-container .filter-btns ul li a,
+.tour-summary .social-share ul li a{
+	color: #00bdbb;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.tour-summary img{
+	width: 100%;
+	height: auto;
+	max-width: 300px;
+}
+
+.tour-summary h2,
+.single-tour h2{
+	text-align: left;
+	margin: 0px 0px 15px 0px !important;
+}
+
+.tour-summary p,
+.tour-summary .price,
+.single-tour .information p,
+.single-tour .tour-location p,
+.single-tour .days-desc p,
+.single-tour .days-desc ul li,
+.single-tour .reviews p,
+.single-tour .additional-info p{
+	color: #696666;
+	font-size: 15px;
+	line-height: 25px;
+}
+
+.tour-summary a.view-details,
+.tour-summary a.view-details:hover,
+.sidebar-search-form .search-btn{
+	background: #285e8e;
+	padding:7px 14px;
+	color: #FFF;
+	text-decoration:none;
+	font-size:12px;
+}
+
+.tour-summary .price strong{
+	color: #00bdbb;
+	font-size: 16px;
+}
+
+.tour-summary .social-share{text-align: right;}
+.tour-summary .social-share ul li{padding:0px;}
+.tour-summary .social-share ul li a{font-size:20px;}
+
+.tour-summary .tour-summary,
+.tour-container .gf-pagination,
+.single-tour .information .tour-summary{
+	background: #f9f9f9;
+	padding:16px 30px;
+	color: #808285;
+	font-size: 15px;
+	line-height: 27px;
+}
+
+.gf-pagination ul{
+	padding: 0px;
+	margin: 0px;
+}
+
+.gf-pagination ul li{
+	list-style: none;
+	display: inline-block;
+	margin-right: 10px;
+	text-align: center;
+}
+
+.gf-pagination ul li a{
+	color: #808285;
+	cursor: pointer;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.gf-pagination ul li a:hover{
+	color: #00bdbb;
+}
+
+
+/*============================
+==> Single tour
+==============================*/
+
+.single-tour h2,
+.single-tour .tour-location .city-history h3{
+    font-size: 30px;
+    text-align: left;
+    margin: 0px 0px 15px 0px !important;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.single-tour .tour-location .city-history h3{
+    font-size: 24px;
+    text-transform: capitalize;
+}
+
+.single-tour .tour-location .city-history p{
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+.single-tour .tour-location .city-history p:last-child{
+    margin-bottom: 0px;
+}
+
+.single-tour p.rate{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.single-tour p.rate span{
+    color: #00bdbb;
+}
+
+.single-tour .information{
+    padding-right: 30px;
+}
+
+.single-tour .information p{
+    text-align: justify;
+}
+
+.single-tour .information .tour-desc{
+    border-bottom: 1px solid #ebebeb;
+    padding: 15px 0px;
+}
+
+.single-tour .information .tour-desc:first-child{
+    border-top: 1px solid #ebebeb;
+}
+
+.single-tour .information .tour-desc .heading,
+.single-tour .information .tour-desc .data,
+.single-tour .comments .author-name{
+    font-size: 15px;
+    font-weight: bold;
+    color: #363636;
+}
+
+.single-tour .information .tour-desc .data{
+    font-weight: normal;
+    color: #808285;
+}
+
+.single-tour .information .tour-desc .data .inner-data{
+    margin-top: 15px;
+}
+
+.single-tour .information .tour-desc .data .inner-data:first-child{
+    margin-top: 0px;
+}
+
+.single-tour .information .tour-desc .data .inner-data i.fa-check{
+    color: #2e8b57;
+}
+
+.single-tour .information .tour-desc .data .inner-data i.fa-times{
+    color: #de293f;
+}
+
+.single-tour .days{
+    float: left;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    font-family: Poppins,sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #00bdbb;
+    border-radius: 50%;
+    margin-right: 38px;
+    text-align: center;
+}
+
+.single-tour .days-desc{
+    width: 85%;
+    position: relative;
+    float: left;
+    box-sizing: border-box;
+}
+
+.single-tour .left-border{
+    height: 100%;
+    position: absolute;
+    left: 0;
+    width: 50px;
+    z-index: -1;
+}
+
+.single-tour .left-border .left-border-inner{
+    position: absolute;
+    top: 0;
+    left: 50%;
+    display: block;
+    width: 0;
+    height: 100%;
+    border-right: 1px dashed #b7b7b7;
+    z-index: 8;
+    content: '';
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+
+.single-tour .review-summary .rating-summary{
+    background: #ebebeb;
+    padding: 41px 0px;
+}
+
+.single-tour .review-summary .rating-summary p.rating-summary-avg{
+    font-family: 'Cookie', cursive;
+    font-size: 60px;
+    color: #00bdbb;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px;
+    line-height: 70px;
+}
+
+.single-tour .review-summary .rating-summary p.rating-standard{
+    font-family: "PT Sans", sans-serif;
+    font-size: 20px;
+    color: #808285;
+    text-align: center;
+    margin: 0px;
+    line-height: 30px;
+}
+
+.single-tour .review-summary .rating-details .each-rating-details{
+    margin-bottom: 8px;
+}
+
+.single-tour .review-summary .rating-details .each-rating-details:last-child{
+    margin-bottom: 0px;
+}
+
+.single-tour .review-summary .rating-details .rating-bg{
+    background: #ebebeb;
+    width: 100%;
+}
+
+.single-tour .review-summary .rating-details .rating-details-inner{
+    position: relative;
+    float: left;
+    background: #0095e1;
+    color: #FFF;
+    box-sizing: border-box;
+    padding: 5px 7px;
+}
+
+.single-tour .review-summary .rating-details .rating-details-inner .fl{
+    float: left;
+}
+
+.single-tour .review-summary .rating-details .rating-details-inner .fr{
+    float: right;
+}
+
+.single-tour .comments .user-comments p{
+    text-align: justify;
+    text-transform: none;
+}
+
+.single-tour .comments{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top: 1px solid #ebebeb;
+}
+
+a[data-rating-value="0"]{
+    display: none;
+}
+
+.single-tour .additional-info p{
+    text-align: justify;
+}
+
+/**
+* Sidebar CSS
+*/
+.sidebar-search-form{
+	padding: 20px;
+	background: #f9f9f9;
+}
+
+.sidebar-search-form h2{
+	line-height: 32px;
+}
+
+.sidebar-search-form h3,
+.sidebar .subscribe h3,
+.single-tour .days-desc h3{
+	font-size: 16px;
+	text-transform: capitalize;
+	text-align: left;
+	margin: 0px 0px 20px 0px !important;
+}
+
+.sidebar-search-form input[type="text"],
+.sidebar .subscribe input[type="email"]{
+	font-family: FontAwesome;
+	margin-bottom: 20px;
+}
+
+.sidebar-search-form input[type="radio"],
+.sidebar-search-form input[type="checkbox"]{
+	vertical-align: text-top;
+}
+
+.sidebar-search-form textarea{resize: none;}
+
+.sidebar-search-form input.country-code{
+    width: 20%;
+    margin-right: 2%;
+    position: relative;
+    float: left;
+}
+
+.sidebar-search-form input.mob-no{
+    width: 78%;
+    position: relative;
+    float: left;
+}
+
+.sidebar-search-form .search-btn,
+.sidebar .subscribe-btn{
+	border: none;
+	width:200px;
+	margin: 20px auto 0px auto;
+	display: block;
+	font-size: 16px !important;
+}
+
+.sidebar .side-ad,
+.sidebar .subscribe{
+	padding: 10px;
+	background: #f9f9f9;
+}
+
+.sidebar .side-ad img{
+	width:100%;
+	height: auto;
+	max-width: 280px;
+}
+
+.sidebar .subscribe h3{
+	color: #000;
+	font-size: 20px;
+	text-align: center;
+}
+
+.sidebar .subscribe-btn,
+.single-tour .reviews .btn-submit{
+	background: #285e8e !important;
+	padding:7px 14px !important;
+	color: #FFF;
+	text-decoration:none;
+	border: none !important;
+}
+
+.sidebar-search-form button.availability{
+    background: #363636!important;
+}
+
+.single-tour .days-desc h3{
+    margin-top: 15px !important;
+    font-weight: bold;
+}
+
+.single-tour .days-desc p,
+.single-tour .days-desc ul{
+    text-align: justify;
+}
+
+.single-tour .days-desc ul{
+    list-style-position: inside;
+    list-style-type: square;
+    padding-left: 0px;
+}
+
+.single-tour .reviews h3{
+    text-align: left;
+}
+
+.single-tour .comments .author-image{
+    height: 120px;
+    width: 120px;
+    overflow: hidden;
+    border-radius: 100px;
+    border: 1px solid #6f0cad;
+    padding: 10px;
+}
+
+.single-tour .comments .author-image img{
+    width: 100%;
+    height: auto;
+}
+
+.single-tour .reviews .btn-submit{
+    padding: 7px 25px !important;
+}
+
+/**
+* Gallery CSS
+*/
+div#background {
+    height: 1200px;
+    width: 100%;
+    background-image: url(http://localhost/www.ghura-fira.com/assets/images/bg-texture.jpg);
+    padding-top: 20px;
+}
+
+div#gallery {
+    width: 800px;
+    margin: auto;
+}
+
+
+#background img {
+    height: 150px;
+    margin: 0px;
+}
+
+#background figure {
+    float: left;
+    position: relative;
+    background-color: white;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 1px 2px 3px black;
+}
+
+figure.pic1 {
+    -webkit-transform : rotate(-10deg);
+    z-index: 1;
+}
+
+figure.pic2 {
+    -webkit-transform : rotate(15deg);
+    z-index: 2;
+}
+
+figure.pic3 {
+    -webkit-transform : rotate(-25deg);
+    z-index: 1;
+}
+figure.pic4 {
+    -webkit-transform : rotate(20deg);
+    z-index: 1;
+}
+figure.pic5 {
+    -webkit-transform : rotate(-10deg);
+    z-index: 1;
+}
+figure.pic6 {
+    -webkit-transform : rotate(-25deg);
+    z-index: 1;
+}
+figure.pic7 {
+    -webkit-transform : rotate(5deg);
+    z-index: 1;
+}
+figure.pic8 {
+    -webkit-transform : rotate(-10deg);
+    z-index: 1;
+}
+figure.pic9 {
+    -webkit-transform : rotate(-12deg);
+    z-index: 1;
+}
+figure.pic10 {
+    -webkit-transform : rotate(5deg);
+    z-index: 1;
+}
+
+#background figure:hover {
+    box-shadow: 5px 10px 100px black;
+    -webkit-transform: scale(1.1,1.1);
+    z-index: 20;
+}

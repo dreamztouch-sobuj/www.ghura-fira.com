@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9808070e-df4b-4648-87df-623a801d0101" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="redeem_modal.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../reveantivirus/application/views/common/reve_associate/redeem_modal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <folding>
+                <element signature="e#449#455#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+                <marker date="1512018034091" expanded="true" signature="1311:1435" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="1486:1979" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="1616:1940" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="2030:2229" ph="..." />
+                <marker date="1512018034091" expanded="false" signature="2361:2378" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="2379:2518" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="2682:2688" ph=" " />
+                <marker date="1512018034091" expanded="true" signature="2853:2859" ph=" " />
+                <marker date="1512018034091" expanded="true" signature="3021:3516" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="3088:3221" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="3259:3516" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="3333:3516" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="4383:4755" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="4438:4533" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="4588:4720" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="4829:5216" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="4884:4989" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="5044:5181" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="5290:5666" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="5345:5443" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="5498:5631" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="5713:6188" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="5768:5807" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="5862:6153" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="6439:6932" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="6506:6662" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="6701:6932" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="6749:6932" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="7907:8406" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="7962:8139" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="8195:8371" ph="..." />
+                <marker date="1512018034091" expanded="false" signature="8592:8618" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="8779:9126" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="8864:9083" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="9211:9372" ph="..." />
+                <marker date="1512018034091" expanded="true" signature="9493:9919" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reve_associate.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../reveantivirus/application/views/en/associate_thankyou/reve_associate.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="570" column="108" lean-forward="true" selection-start-line="570" selection-start-column="25" selection-end-line="570" selection-end-column="108" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reve_associate-bck-30-11-17.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../reveantivirus/application/views/en/associate_thankyou/reve_associate-bck-30-11-17.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="439" column="8" lean-forward="false" selection-start-line="439" selection-start-column="8" selection-end-line="439" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reve_associate.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../reveantivirus/application/controllers/reve_associate.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="915" column="0" lean-forward="true" selection-start-line="915" selection-start-column="0" selection-end-line="915" selection-end-column="0" />
+              <folding>
+                <marker date="1512037101157" expanded="true" signature="32148:32166" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cart.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../reveantivirus/application/controllers/cart.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="442" column="58" lean-forward="true" selection-start-line="442" selection-start-column="58" selection-end-line="442" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="redeem_our_addr_support.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../reveantivirus/application/views/emails/redeem_our_addr_support.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="redeem_our_addr.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../reveantivirus/application/views/emails/redeem_our_addr.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="22" column="97" lean-forward="false" selection-start-line="22" selection-start-column="97" selection-end-line="22" selection-end-column="97" />
+              <folding>
+                <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#4;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+                <marker date="1512036942592" expanded="true" signature="1434:1630" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new_payment.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../reveantivirus/application/controllers/new_payment.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="516" column="75" lean-forward="true" selection-start-line="503" selection-start-column="8" selection-end-line="516" selection-end-column="75" />
+              <folding>
+                <marker date="1510208038760" expanded="true" signature="16282:16562" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="associate-profile.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../reveantivirus/assets/css/associate-profile.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="393" column="0" lean-forward="true" selection-start-line="393" selection-start-column="0" selection-end-line="395" selection-end-column="1" />
+              <folding>
+                <element signature="e#8943#9144#0" expanded="false" />
+                <element signature="e#10163#10305#0" expanded="false" />
+                <element signature="e#10307#10670#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>p{</find>
+      <find>tour-su</find>
+      <find>promo-btn</find>
+      <find>product-redeem</find>
+      <find>acces</find>
+      <find>email_verify</find>
+      <find>loginData</find>
+      <find>partner_select</find>
+      <find>redeem_prize</find>
+      <find>lan</find>
+      <find>#email-step-modal button</find>
+      <find>email-step-2-form</find>
+      <find>#email-step-2-form button</find>
+      <find>button.verify-now</find>
+      <find>#email-step-2-form input[type=&quot;text&quot;]</find>
+      <find>base_url</find>
+      <find>redeem</find>
+      <find>$mail_log</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/views/place/place.php" />
+        <option value="$PROJECT_DIR$/assets/css/custom.css" />
+        <option value="$PROJECT_DIR$/application/views/place/page.php" />
+        <option value="$PROJECT_DIR$/../reveantivirus/application/views/en/associate_thankyou/gift_gallery.php" />
+        <option value="$PROJECT_DIR$/../reveantivirus/assets/css/gift_gallery.css" />
+        <option value="$PROJECT_DIR$/../reveantivirus/application/views/en/associate_thankyou/filter_gift_gallery.php" />
+        <option value="$PROJECT_DIR$/../reveantivirus/application/controllers/gift_gallery.php" />
+        <option value="$PROJECT_DIR$/../reveantivirus/application/controllers/product_renew.php" />
+        <option value="$USER_HOME$/Desktop/projects/reveantivirus/new/views/en/product_renew/renew-form.php" />
+        <option value="$USER_HOME$/Desktop/projects/reveantivirus/new/controllers/product_renew.php" />
+        <option value="$USER_HOME$/Desktop/projects/reveantivirus/new/views/bd/product_renew/renew-form.php" />
+        <option value="$PROJECT_DIR$/../reveantivirus/blog/wp-content/themes/www.ajura.com/functions.php" />
+        <option value="$USER_HOME$/Desktop/projects/revesecure/new/solution-template.css" />
+        <option value="$USER_HOME$/Desktop/projects/revesecure/new/custom-css.css" />
+        <option value="$PROJECT_DIR$/../reveantivirus/assets/css/brand_ambassador/style.css" />
+        <option value="$PROJECT_DIR$/../reveantivirus/application/controllers/student_brand_ambassadors.php" />
+        <option value="$PROJECT_DIR$/../reveantivirus/application/views/bd/student_brand_ambassadors/profile.php" />
+        <option value="$USER_HOME$/Desktop/projects/reveantivirus/www.reveantivirus.com/application/views/bd/student_brand_ambassadors/profile.php" />
+        <option value="$USER_HOME$/Desktop/projects/reveantivirus/www.reveantivirus.com/application/controllers/student_ambassadors.php" />
+        <option value="$USER_HOME$/Desktop/projects/reveantivirus/www.reveantivirus.com/application/controllers/reve_associate.php" />
+        <option value="$USER_HOME$/Desktop/projects/reveantivirus/new/views/common/download/download_modal.php" />
+        <option value="$PROJECT_DIR$/../reveantivirus/assets/css/associate-profile.css" />
+        <option value="$PROJECT_DIR$/../reveantivirus/application/views/common/reve_associate/redeem_modal.php" />
+        <option value="$USER_HOME$/Desktop/projects/reveantivirus/temp-new-30-11/application/controllers/reve_associate.php" />
+        <option value="$PROJECT_DIR$/../reveantivirus/application/views/en/associate_thankyou/reve_associate.php" />
+        <option value="$USER_HOME$/Desktop/projects/reveantivirus/temp-new-30-11/application/views/en/reve_associate.php" />
+        <option value="$PROJECT_DIR$/../reveantivirus/application/views/emails/redeem_our_addr.php" />
+        <option value="$PROJECT_DIR$/../reveantivirus/application/controllers/reve_associate.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="www.ghura-fira.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reveantivirus" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="www.ghura-fira.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reveantivirus" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="www.ghura-fira.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reveantivirus" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="www.ghura-fira.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reveantivirus" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="www.ghura-fira.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reveantivirus" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="application" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="emails" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="www.ghura-fira.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reveantivirus" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="www.ghura-fira.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reveantivirus" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="www.ghura-fira.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reveantivirus" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="brand_ambassador" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="www.ghura-fira.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reveantivirus" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="www.ghura-fira.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reveantivirus" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="blog" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="www.ghura-fira.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reveantivirus" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="blog" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="www.ghura-fira.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reveantivirus" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="blog" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="www.ghura-fira.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reveantivirus" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="blog" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="www.ajura.com" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9808070e-df4b-4648-87df-623a801d0101" name="Default" comment="" />
+      <created>1509819366188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509819366188</updated>
+      <workItem from="1509819370966" duration="1171000" />
+      <workItem from="1509849884434" duration="68000" />
+      <workItem from="1511791701890" duration="5832000" />
+      <workItem from="1511837364899" duration="19022000" />
+      <workItem from="1511923100906" duration="23214000" />
+      <workItem from="1512009207007" duration="22741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="72048000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27452415" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290938" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290938" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27452415" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../reveantivirus/application/views/en/associate_thankyou/reve_associate.php</url>
+          <line>730</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/../reveantivirus/application/controllers/reve_associate.php</url>
+          <line>650</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/application/views/en/associate_thankyou/reve_associate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13804">
+          <caret line="812" column="12" lean-forward="false" selection-start-line="812" selection-start-column="12" selection-end-line="812" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/place/place.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="117" lean-forward="true" selection-start-line="48" selection-start-column="36" selection-end-line="49" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18241">
+          <caret line="1073" column="66" lean-forward="false" selection-start-line="1073" selection-start-column="66" selection-end-line="1073" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/place/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/place/place.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/place/place.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/place/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/place/place.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="49" column="117" lean-forward="false" selection-start-line="48" selection-start-column="36" selection-end-line="49" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1073" column="66" lean-forward="false" selection-start-line="1073" selection-start-column="66" selection-end-line="1073" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/assets/css/gift_gallery.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="233" column="17" lean-forward="false" selection-start-line="233" selection-start-column="17" selection-end-line="233" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/application/views/en/associate_thankyou/gift_gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="65" column="71" lean-forward="false" selection-start-line="65" selection-start-column="61" selection-end-line="65" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/application/controllers/product_renew - bck -3-8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="45" column="43" lean-forward="false" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="43" />
+          <folding>
+            <marker date="1501752822068" expanded="true" signature="21579:21859" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/application/views/en/associate_thankyou/filter_gift_gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="57" lean-forward="true" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/projects/reveantivirus/new/controllers/product_renew.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1556">
+          <caret line="445" column="5" lean-forward="false" selection-start-line="445" selection-start-column="5" selection-end-line="445" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/application/controllers/product_renew.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="392" column="4" lean-forward="true" selection-start-line="392" selection-start-column="4" selection-end-line="459" selection-end-column="5" />
+          <folding>
+            <marker date="1511846440034" expanded="true" signature="13452:13636" ph="..." />
+            <marker date="1511846440034" expanded="true" signature="15526:15566" ph="..." />
+            <marker date="1511846440034" expanded="true" signature="15647:15653" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/projects/reveantivirus/new/views/en/product_renew/renew-form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="206" column="4" lean-forward="false" selection-start-line="206" selection-start-column="4" selection-end-line="241" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/application/views/en/product_renew/renew-form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="218" column="14" lean-forward="true" selection-start-line="183" selection-start-column="8" selection-end-line="218" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/projects/reveantivirus/new/views/bd/product_renew/renew-form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-888">
+          <caret line="201" column="21" lean-forward="true" selection-start-line="201" selection-start-column="21" selection-end-line="201" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/application/views/bd/product_renew/renew-form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="181" column="12" lean-forward="false" selection-start-line="183" selection-start-column="8" selection-end-line="218" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/blog/wp-content/themes/www.ajura.com/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="157" column="0" lean-forward="true" selection-start-line="157" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/projects/revesecure/new/solution-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="24" column="30" lean-forward="false" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/projects/revesecure/new/custom-css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="2280" column="28" lean-forward="false" selection-start-line="2280" selection-start-column="28" selection-end-line="2280" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/projects/revesecure/new/solution-template.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="35" column="1" lean-forward="false" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/assets/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1938">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="152" selection-end-column="157" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/application/controllers/gift_gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="32" column="54" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/assets/css/reve_associate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="140" column="5" lean-forward="true" selection-start-line="140" selection-start-column="5" selection-end-line="140" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/application/models/partner_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="24" column="31" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/application/views/bd/student_brand_ambassadors/profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="390" column="8" lean-forward="true" selection-start-line="390" selection-start-column="8" selection-end-line="390" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/application/controllers/student_brand_ambassadors.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="132" column="8" lean-forward="false" selection-start-line="132" selection-start-column="8" selection-end-line="132" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/application/models/common_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/assets/css/brand_ambassador/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="789" column="5" lean-forward="true" selection-start-line="789" selection-start-column="5" selection-end-line="789" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/projects/reveantivirus/www.reveantivirus.com/application/views/en/associate_thankyou/reve_associate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14671">
+          <caret line="863" column="21" lean-forward="false" selection-start-line="863" selection-start-column="21" selection-end-line="863" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/projects/reveantivirus/new/views/common/download/download_modal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="261" column="52" lean-forward="false" selection-start-line="261" selection-start-column="52" selection-end-line="261" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/projects/reveantivirus/www.reveantivirus.com/application/controllers/reve_associate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="758" column="22" lean-forward="false" selection-start-line="758" selection-start-column="22" selection-end-line="758" selection-end-column="22" />
+          <folding>
+            <marker date="1511952579829" expanded="true" signature="32148:32166" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/projects/reveantivirus/www.reveantivirus.com/application/controllers/student_ambassadors.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="128" column="46" lean-forward="false" selection-start-line="128" selection-start-column="46" selection-end-line="128" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/projects/reveantivirus/www.reveantivirus.com/application/views/bd/student_brand_ambassadors/profile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="166" column="77" lean-forward="false" selection-start-line="166" selection-start-column="66" selection-end-line="166" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/application/views/templates/base_template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="300" column="40" lean-forward="true" selection-start-line="300" selection-start-column="40" selection-end-line="300" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/application/views/en/cart/cart_details_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="99" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="99" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/assets/js/cart-payment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="201" column="39" lean-forward="false" selection-start-line="201" selection-start-column="39" selection-end-line="201" selection-end-column="39" />
+          <folding>
+            <marker date="1508819957680" expanded="true" signature="3227:3239" ph="..." />
+            <marker date="1508819957680" expanded="true" signature="3431:3441" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/application/views/templates/gift_gallery_template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="301" column="14" lean-forward="true" selection-start-line="301" selection-start-column="14" selection-end-line="301" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/projects/reveantivirus/temp-new-30-11/application/controllers/reve_associate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="821" column="143" lean-forward="false" selection-start-line="821" selection-start-column="143" selection-end-line="821" selection-end-column="143" />
+          <folding>
+            <marker date="1512033339489" expanded="true" signature="32148:32166" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/projects/reveantivirus/temp-new-30-11/application/views/en/reve_associate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-476">
+          <caret line="931" column="13" lean-forward="false" selection-start-line="931" selection-start-column="13" selection-end-line="931" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/application/views/common/reve_associate/redeem_modal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <element signature="e#449#455#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
+            <marker date="1512018034091" expanded="true" signature="1311:1435" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="1486:1979" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="1616:1940" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="2030:2229" ph="..." />
+            <marker date="1512018034091" expanded="false" signature="2361:2378" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="2379:2518" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="2682:2688" ph=" " />
+            <marker date="1512018034091" expanded="true" signature="2853:2859" ph=" " />
+            <marker date="1512018034091" expanded="true" signature="3021:3516" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="3088:3221" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="3259:3516" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="3333:3516" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="4383:4755" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="4438:4533" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="4588:4720" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="4829:5216" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="4884:4989" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="5044:5181" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="5290:5666" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="5345:5443" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="5498:5631" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="5713:6188" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="5768:5807" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="5862:6153" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="6439:6932" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="6506:6662" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="6701:6932" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="6749:6932" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="7907:8406" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="7962:8139" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="8195:8371" ph="..." />
+            <marker date="1512018034091" expanded="false" signature="8592:8618" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="8779:9126" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="8864:9083" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="9211:9372" ph="..." />
+            <marker date="1512018034091" expanded="true" signature="9493:9919" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/assets/css/associate-profile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="393" column="0" lean-forward="true" selection-start-line="393" selection-start-column="0" selection-end-line="395" selection-end-column="1" />
+          <folding>
+            <element signature="e#8943#9144#0" expanded="false" />
+            <element signature="e#10163#10305#0" expanded="false" />
+            <element signature="e#10307#10670#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/application/controllers/new_payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="516" column="75" lean-forward="true" selection-start-line="503" selection-start-column="8" selection-end-line="516" selection-end-column="75" />
+          <folding>
+            <marker date="1510208038760" expanded="true" signature="16282:16562" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/application/views/en/associate_thankyou/reve_associate-bck-30-11-17.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="439" column="8" lean-forward="false" selection-start-line="439" selection-start-column="8" selection-end-line="439" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/application/views/en/associate_thankyou/reve_associate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="570" column="108" lean-forward="true" selection-start-line="570" selection-start-column="25" selection-end-line="570" selection-end-column="108" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/application/views/emails/redeem_our_addr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="22" column="97" lean-forward="false" selection-start-line="22" selection-start-column="97" selection-end-line="22" selection-end-column="97" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#4;n#td#0;n#tr#0;n#table#0;n#!!top" expanded="true" />
+            <marker date="1512036942592" expanded="true" signature="1434:1630" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/application/views/emails/redeem_our_addr_support.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/application/controllers/cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="442" column="58" lean-forward="true" selection-start-line="442" selection-start-column="58" selection-end-line="442" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../reveantivirus/application/controllers/reve_associate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="915" column="0" lean-forward="true" selection-start-line="915" selection-start-column="0" selection-end-line="915" selection-end-column="0" />
+          <folding>
+            <marker date="1512037101157" expanded="true" signature="32148:32166" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

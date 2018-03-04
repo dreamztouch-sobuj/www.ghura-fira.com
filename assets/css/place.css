@@ -1,0 +1,285 @@
+.place-header{
+	background: url(http://localhost/www.ghura-fira.com/assets/images/place-banner.jpg);
+	height: 273px;
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	position:relative;
+}
+
+.place-header .overlay,
+.single-place .overlay{
+	background: rgba(0, 0, 0, 0.6);
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	position: absolute;
+	padding: 0;
+	transition: opacity .5s;
+}
+
+.place-header h1{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 36px; 
+	color: #FFF;
+	text-align: center;
+	vertical-align: middle;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+.place-container{
+	font-family: "PT Sans",sans-serif;
+	padding: 40px 0px;
+}
+
+.single-place{
+    overflow: hidden;
+
+}
+
+.single-place img{
+    transition: all 0.5s ease-in-out;
+}
+
+.single-place:hover img{
+    transform: scale(1.2);
+}
+
+.single-place .overlay{
+    background: rgba(50, 50, 50, 0.5);
+}
+
+.single-place .overlay h3{
+    font-size: 24px;
+    font-weight: bold;
+    color: #FFF;
+    margin: 0px;
+    line-height: 135px;
+    text-align: center;
+}
+
+.single-place-container{
+    font-family: "PT Sans", sans-serif;
+}
+
+.single-place-container .place-type span.heading,
+.single-place-container .place-type span.tag,
+.single-place-container .place-rating span.heading,
+.single-place-container .place-rating span.tag{
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.single-place-container .place-type span.tag,
+.single-place-container .place-type span.tag a,
+.single-place-container .place-type span.tag a:hover,
+.single-place-container .place-rating span.tag,
+.single-place-container .place-rating span.tag a,
+.single-place-container .place-rating span.tag a:hover{
+    width: auto;
+    background: #2e8b57;
+    color: #FFF;
+    font-size: 16px;
+    padding: 2px 7px;
+    font-weight: normal;
+    position: relative;
+    margin-left: 10px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.single-place-container .place-type span.tag a,
+.single-place-container .place-type span.tag a:hover,
+.single-place-container .place-rating span.tag a,
+.single-place-container .place-rating span.tag a:hover{
+    margin-left: 0px;
+    padding: 0px;
+}
+
+.single-place-container .place-type span.tag:before,
+.single-place-container .place-rating span.tag:before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -15px;
+    width: 0;
+    height: 0;
+    border-left: 15px solid transparent;
+    border-top: 12px solid #2e8b57;
+    border-bottom: 12px solid #2e8b57;
+}
+
+.single-place-container .place-rating span.top-rated,
+.single-place-container .place-rating span.tag a,
+.single-place-container .place-rating span.tag a:hover{
+    background: #FF0000;
+}
+
+.single-place-container .place-rating span.top-rated:before{
+    border-left: 15px solid transparent;
+    border-top: 12px solid #FF0000;
+    border-bottom: 12px solid #FF0000;
+}
+
+.single-place-container p,
+.single-place-container .panel-body{
+	color: #696666;
+	font-size: 15px;
+	line-height: 25px;
+	text-align: justify;
+}
+
+.single-place-container .panel-group{
+    font-family: "PT Sans", sans-serif !important;
+}
+
+.single-place-container .panel{
+    margin-bottom: 10px;
+}
+
+.single-place-container .panel-title{
+    font-family: "PT Sans",sans-serif !important;
+    font-size: 20px !important;
+    font-weight: bold;
+}
+
+.single-place-container .panel-default>.panel-heading {
+    color: #FFF;
+    background-color: #428bca;
+    border-color: #e4e5e7;
+    padding: 0;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.single-place-container .panel-default>.panel-heading a {
+    display: block;
+    padding: 10px 15px;
+}
+
+.single-place-container .panel-default>.panel-heading a:hover{
+    text-decoration: none !important;
+}
+
+.single-place-container .panel-default>.panel-heading a:after {
+    content: "";
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    float: right;
+    transition: transform .25s linear;
+    -webkit-transition: -webkit-transform .25s linear;
+}
+
+.single-place-container .panel-default>.panel-heading a[aria-expanded="true"] {
+    text-decoration: none !important;
+}
+
+.single-place-container .panel-default>.panel-heading a[aria-expanded="true"]:after {
+    content: "\2212";
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+    text-decoration: none !important;
+}
+
+.single-place-container .panel-default>.panel-heading a[aria-expanded="false"]:after {
+    content: "\002b";
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+    text-decoration: none !important;
+}
+
+.single-place-container .accordion-option {
+    width: 100%;
+    float: left;
+    clear: both;
+    margin: 15px 0;
+}
+
+.single-place-container .accordion-option .title {
+    font-size: 20px;
+    font-weight: bold;
+    float: left;
+    padding: 0;
+    margin: 0;
+}
+
+.single-place-container .accordion-option .toggle-accordion {
+    float: right;
+    font-size: 16px;
+    color: #6a6c6f;
+}
+
+.single-place-container .accordion-option .toggle-accordion:before {
+    content: "Expand All";
+}
+
+.single-place-container .accordion-option .toggle-accordion.active:before {
+    content: "Collapse All";
+}
+
+.single-place-container .hotel-listing,
+.single-place-container .restaurant-listing,
+.single-place-container .food-listing{
+    border: 1px solid #ccc;
+}
+
+.single-place-container .hotel-listing .about-hotel h5,
+.single-place-container .restaurant-listing .about-restaurant h5,
+.single-place-container .food-listing .about-food h5,
+.single-place-container .important-contacts h4{
+    font-size: 16px;
+    color: #000;
+    font-weight: bold;
+}
+
+.single-place-container .hotel-listing .about-hotel p,
+.single-place-container .restaurant-listing .about-restaurant p,
+.single-place-container .food-listing .about-food p{
+    font-size: 14px;
+    color: #00bdbb;
+    margin: 0px;
+}
+
+.single-place-container .hotel-listing .about-hotel a.view-details-btn,
+.single-place-container .hotel-listing .about-hotel a:hover.view-details-btn,
+.single-place-container .restaurant-listing .about-restaurant a.view-details-btn,
+.single-place-container .restaurant-listing .about-restaurant a:hover.view-details-btn,
+.single-place-container .food-listing .about-food a.view-details-btn,
+.single-place-container .food-listing .about-food a:hover.view-details-btn{
+    background: #428bca;
+    font-size: 12px;
+    text-align: center;
+    color: #fff;
+    padding: 3px 8px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.single-place-container .important-contacts a,
+.single-place-container .important-contacts a:hover{
+    color: #008080;
+    text-decoration: none;
+}
+
+#mapcanvas{height: 500px;}
+
+/*=-=-=-=-= BX Slider CSS overwrite =-=-=-=-=*/
+.bx-wrapper .bx-prev{
+    left: -20px !important;
+}
+.bx-wrapper .bx-next{
+    right: -20px !important;
+}
